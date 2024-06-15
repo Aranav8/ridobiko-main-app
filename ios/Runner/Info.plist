@@ -27,15 +27,15 @@
     <key>LSRequiresIPhoneOS</key>
     <true/>
     <key>NSCameraUsageDescription</key>
-    <string>Ridobiko require this permission to upload user profile image</string>
+    <string>We need camera access to scan documents and IDs for quick and secure onboarding.</string>
     <key>NSMicrophoneUsageDescription</key>
     <string>Ridobiko require this permission to function properly and access camera to upload user profile image</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>Ridobiko require this permission to upload user profile image</string>
     <key>NSContactsUsageDescription</key>
-    <string>We need your contacts to help you connect with others.</string>
+    <string>Grant contacts access to effortlessly choose emergency contacts, saving you the hassle of manual input.</string>
     <key>NSUserTrackingUsageDescription</key>
-    <string>We need your permission to send notifications.</string>
+    <string>Allow notifications to stay updated with important alerts and app updates.</string>
     <key>UIApplicationSupportsIndirectInputEvents</key>
     <true/>
     <key>UILaunchStoryboardName</key>
